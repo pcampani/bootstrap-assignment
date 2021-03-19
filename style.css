@@ -1,0 +1,14 @@
+div.jumbotron {
+	height: 500px;
+	background: url("https://media.giphy.com/media/dB66K4Kywc8gPVh6A7/giphy.gif") no-repeat center center;
+	background-size: cover;
+	
+}
+
+.jumbotron h1, .jumbotron p {
+	text-shadow:5px 5px 10px rgba(0,0,0,.9);
+}
+
+img {
+	width: 100px;
+}
